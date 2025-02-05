@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hello. 🐌
+I'm a psycholinguist who is interested in sentence processing of ambiguous structures by different bilingual profiles.
+
+I've also developed a few computational projects, such as analyzing child speech for the emergence of word classes and grammar, using Twitter geodata to analyze tweets, a knock-knock joke generator based on phonetic distance, and prompt engineering of medical abstracts drug-drug interactions. 
 
 <!--
 **V090909/V090909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
