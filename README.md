@@ -1,6 +1,6 @@
 # Hello. Welcome to my GitHub.
 ### 🐌
-I'm a psycholinguist who is interested in sentence processing of ambiguous structures by different bilingual profiles.
+I'm a psycholinguist who is interested in the sentence processing of ambiguous structures by bilinguals.
 
 I've also developed a few computational projects, such as analyzing child speech for the emergence of word classes and grammar, using Twitter geodata to analyze tweets, a knock-knock joke generator based on phonetic distance, and prompt engineering of medical abstracts drug-drug interactions. 
 
