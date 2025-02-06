@@ -1,4 +1,4 @@
-# Hello. Welcome to my projects.
+## Hello! Welcome to my projects.
 ### 🐌
 I'm a psycholinguist who is interested in the sentence processing of ambiguous structures by bilinguals.
 
