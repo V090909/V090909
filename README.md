@@ -2,7 +2,7 @@
 ### 🐌
 I'm a psycholinguist who is interested in the sentence processing of ambiguous structures by bilinguals.
 
-I've also developed a few computational projects, such as analyzing child speech for the emergence of word classes and grammar, using Twitter geodata to analyze tweets, a calculator of phonetic distance between two words based on vectorized IPA features, and prompt engineering of medical abstracts drug-drug interactions. 
+I've also developed a few computational projects, such as analyzing child speech for the emergence of word classes and grammar, using Twitter geodata to analyze user metrics, a calculator of phonetic distance between two words based on vectorized IPA features, and prompt engineering of medical abstracts drug-drug interactions. 
 
 <!--
 **V090909/V090909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
