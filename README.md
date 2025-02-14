@@ -1,6 +1,6 @@
 ## Hello! Welcome to my projects.
 ### 🐌
-I'm a psycholinguist who is interested in questions of how we make sense of the many signals present in linguistic information: specifically, the weighting of syntactic and semantic cues during sentence processing. To solve one aspect of this puzzle, I study real-time comprehension of ambiguous structures by bilingual populations.
+I'm a psycholinguist interested in how we make sense of the many signals (sometimes congruous, sometines conflicting) present in linguistic information: specifically, the weighting of syntactic and semantic cues during sentence processing. To solve one aspect of this puzzle, I study real-time comprehension of ambiguous structures by bilingual populations.
 
 I've also developed a few computational projects, such as analyzing child speech for the emergence of word classes and grammar, using Twitter geodata to analyze user metrics, calculating phonetic distance between two words based on vectorized IPA features, and prompt engineering LLMS for the extraction of drug-drug interactions from medical abstracts. 
 
