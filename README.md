@@ -2,7 +2,7 @@
 ### 🐌
 I'm a psycholinguist who is interested in how humans make sense of the many signals (sometimes congruous, sometines conflicting) present in linguistic information. Specifically, how do comprehenders weight syntactic and semantic cues during sentence processing? To solve one aspect of this puzzle, I study real-time comprehension of ambiguous structures by bilingual populations.
 
-I've also developed a few computational projects, such as analyzing child speech for the emergence of word classes and grammar, using Twitter geodata to analyze user metrics, calculating phonetic distance between two words based on vectorized IPA features, and prompt engineering LLMS for the extraction of drug-drug interactions from medical abstracts. 
+My projects include analyzing child speech for the emergence of word classes and grammar, using Twitter geodata to compare user metrics in different locations, calculating phonetic distance between two words based on vectorized IPA features, and prompt engineering LLMS for the extraction of drug-drug interactions from medical abstracts. 
 
 <!--
 **V090909/V090909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
