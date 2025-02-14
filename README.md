@@ -1,6 +1,6 @@
 ## Hello! Welcome to my projects.
 ### 🐌
-I'm a psycholinguist who is interested in the sentence processing of ambiguous structures by bilinguals.
+I'm a psycholinguist who is interested in the sentence processing of ambiguous structures by bilingual populations.
 
 I've also developed a few computational projects, such as analyzing child speech for the emergence of word classes and grammar, using Twitter geodata to analyze user metrics, a calculator of phonetic distance between two words based on vectorized IPA features, and prompt engineering of medical abstracts drug-drug interactions. 
 
