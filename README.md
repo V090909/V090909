@@ -2,7 +2,7 @@
 ### 🐌
 I'm a psycholinguist who is interested in the weighting of syntactic and semantic cues during sentence processing. I study real-time comprehension of ambiguous structures by bilingual populations.
 
-I've also developed a few computational projects, such as analyzing child speech for the emergence of word classes and grammar, using Twitter geodata to analyze user metrics, a calculator of phonetic distance between two words based on vectorized IPA features, and prompt engineering of medical abstracts drug-drug interactions. 
+I've also developed a few computational projects, such as analyzing child speech for the emergence of word classes and grammar, using Twitter geodata to analyze user metrics, calculating phonetic distance between two words based on vectorized IPA features, and prompt engineering LLMS for the extraction of drug-drug interactions from medical abstracts. 
 
 <!--
 **V090909/V090909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
